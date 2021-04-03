@@ -5,7 +5,7 @@ from todos.models import Todo
 
 
 class TodosListView(generics.ListCreateAPIView):
-    queryset = Todo.todosobjects.all()
+    queryset = Todo.objects.all()
     serializer_class = TodoSerializer
 
 

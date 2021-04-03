@@ -18,7 +18,7 @@ class Todo(models.Model):
     todosobjects = TodoManager()
 
     class Meta:
-        ordering = ['created_at']
+        ordering = ['-created_at']
 
     def __str__(self) -> str:
         return f'{self.title}'
