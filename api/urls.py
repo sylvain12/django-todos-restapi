@@ -5,5 +5,5 @@ app_name = 'api'
 
 urlpatterns = [
     path('todos/', TodosListView.as_view(), name='todo-list'),
-    path('todo/<int:pk>', TodoDetailView.as_view(), name='todo-detail'),
+    path('todo/<int:pk>/', TodoDetailView.as_view(), name='todo-detail'),
 ]
