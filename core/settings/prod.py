@@ -21,5 +21,6 @@ DATABASES = {
 
 # Django Cors headers
 CORS_ALLOWED_ORIGINS = [
-
+    'https://react-django-todos.netlify.app/',
+    'http://react-django-todos.netlify.app/'
 ]
