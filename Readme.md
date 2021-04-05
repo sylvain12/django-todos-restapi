@@ -6,4 +6,4 @@ Todos rest API with Python Django Framework and Django Rest Framework.
 - Language: [Python](https://www.python.org/)
 - Framework: [Django](https://www.djangoproject.com/)
 - Django Rest Library: [Django Rest Framework](https://www.django-rest-framework.org/)
-- Package Manager: [Poetry](https://python-poetry.org/)
+- Package Manager: [Pipenv](https://pipenv.pypa.io/en/latest/)
