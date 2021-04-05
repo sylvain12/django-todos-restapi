@@ -2,10 +2,7 @@
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'https://django-todos-api.com',
-    '127.0.0.1',
-    'localhost',
-    '*'
+    'https://django-todos-api.herokuapp.com',
 ]
 
 DATABASES = {
