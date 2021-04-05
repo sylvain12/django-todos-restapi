@@ -4,6 +4,8 @@ DEBUG = False
 ALLOWED_HOSTS = [
     'https://django-todos-api.herokuapp.com',
     'http://django-todos-api.herokuapp.com',
+    '127.0.0.1',
+    # "*"
 ]
 
 DATABASES = {
