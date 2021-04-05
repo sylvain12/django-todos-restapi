@@ -9,7 +9,7 @@ gunicorn @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/49/52/11/ca2c
 isort @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/2c/6b/32/7acaeb42372692d28a31dfd6de22b903d9a0605a162d2ce42be82c41f5/isort-5.8.0-py3-none-any.whl
 lazy-object-proxy @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/a1/89/93/4b4978789452e4eead05d9611e5e426d4a65e286c8d34dbe899ba33d2a/lazy-object-proxy-1.6.0.tar.gz
 mccabe @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/96/5e/5f/21ae5296697ca7f94de4da6e21d4936d74029c352a35202e4c339a4253/mccabe-0.6.1-py2.py3-none-any.whl
-psycopg2-binary @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/67/81/39/6b112e60aae4e637f9f5aec1d569f190bdbbc55b7101f1e92c9ef35f8d/psycopg2_binary-2.8.6-cp39-cp39-macosx_10_9_x86_64.macosx_10_9_intel.macosx_10_10_intel.macosx_10_10_x86_64.whl
+psycopg2 @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/17/48/39/0a22843b92eebf150b78e586ba20dc44a9804b43a94b8b99102d2fccf5/psycopg2-2.8.6.tar.gz
 pycodestyle @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/4c/30/97/026c283ef67eb248e5b7e6fad1f8ffb99dae50c11fd93eb939fd7c1f46/pycodestyle-2.7.0-py2.py3-none-any.whl
 pylint @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/78/90/93/3544455b4ba81d1beb909e21a95594505c5c120e1210a4dcf598355859/pylint-2.7.4-py3-none-any.whl
 pytz @ file:///Users/sylvain/Library/Caches/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
